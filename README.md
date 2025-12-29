@@ -1,4 +1,4 @@
-# 🦀 Pushp Kharat
+# Pushp Kharat
 ### ML Systems Researcher & High-Performance Engineer
 
 I build machine learning systems where performance is a first-class citizen. My work sits at the intersection of **Systems Programming (Rust/C++)** and **Applied ML Research**, with a specific focus on **Concept Drift Adaptation** and **Hardware-Aware Optimization**.
@@ -7,7 +7,7 @@ I prefer building quietly, measuring carefully, and optimizing relentlessly.
 
 ---
 
-## 🔬 Research & Core Focus
+## Research & Core Focus
 
 I specialize in **MLSys**—designing the computational engines that power modern AI:
 
@@ -18,7 +18,7 @@ I specialize in **MLSys**—designing the computational engines that power moder
 
 ---
 
-## 🚀 Featured Research: PKBoost
+## Featured Research: PKBoost
 **Self-Adaptive Gradient Boosting Library in Rust** | *Mentored by Ash Vardanian (Founder, Unum Cloud)*
 
 PKBoost is a production-ready GBDT framework built to handle "drifting" data where standard models fail.
@@ -37,9 +37,9 @@ PKBoost is a production-ready GBDT framework built to handle "drifting" data whe
 
 ---
 
-## 🛠️ Engineering Portfolio
+## Engineering Portfolio
 
-### 🤖 High-Performance Agentic RAG System
+### High-Performance Agentic RAG System
 Built a production-grade RAG backend for HR automation (demoed to Godrej Living):
 
 * **Architecture**: High-throughput async backend using Rust, Axum, and Tokio
@@ -47,7 +47,7 @@ Built a production-grade RAG backend for HR automation (demoed to Godrej Living)
 * **Agentic Logic**: ReAct-style agent loop with Llama 3.3 for dynamic tool dispatching
 * **Persistence**: PostgreSQL with SQLx for ACID-compliant chat history and vector storage
 
-### 📈 Production Lead Scoring Pipeline
+### Production Lead Scoring Pipeline
 Enterprise B2B prioritization system deployed at Value Score:
 
 * **Performance**: 0.89 ROC-AUC with 1-2 minute training time on 10k leads
@@ -57,7 +57,7 @@ Enterprise B2B prioritization system deployed at Value Score:
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 | Domain | Technologies |
 |:---|:---|
@@ -69,7 +69,7 @@ Enterprise B2B prioritization system deployed at Value Score:
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Value Score Business Solutions LLP** | Technical Intern | *Jun 2025 – Present*
 - Building agentic RAG workflows with n8n and open-source LLMs
@@ -82,7 +82,7 @@ Enterprise B2B prioritization system deployed at Value Score:
 
 ---
 
-## 🥊 The Discipline of Engineering
+## The Discipline of Engineering
 
 Outside of code, I am an **Amateur MMA District Gold Medalist** with a **5-1 record**. Engineering and combat sports share the same DNA:
 
@@ -96,7 +96,7 @@ Outside of code, I am an **Amateur MMA District Gold Medalist** with a **5-1 rec
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm open to **ML Systems Engineer**, **Applied AI Researcher**, or **Performance Engineering** roles where technical discipline is the standard.
 
