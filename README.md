@@ -31,7 +31,7 @@ PKBoost is a production-ready GBDT framework built to handle "drifting" data whe
 
 **Empirical Results:**
 * Only **2.8% PR-AUC degradation** under severe concept drift vs. 12-18% for XGBoost/LightGBM
-* **2,400+ PyPI downloads** and permanently archived (DOI: 10.5281/zenodo.17568991)
+* **3,100+ PyPI downloads** and permanently archived (DOI: 10.5281/zenodo.17568991)
 
 **Links:** [GitHub](https://github.com/Pushp-Kharat1/PKBoost) | [PyPI](https://pypi.org/project/pkboost/) | [Preprint](https://doi.org/10.5281/zenodo.17568991)
 
