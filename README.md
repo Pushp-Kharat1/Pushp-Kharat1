@@ -71,8 +71,9 @@ Enterprise B2B prioritization system deployed at Value Score:
 
 ## Experience
 
-**PKBoost AI Labs** | Founder & Lead research engineer | 2025—Present
-Independent AI/ML research lab focused on high-performance tabular ML and neural-symbolic systems. Research areas: concept drift adaptation, formal mathematical reasoning, SIMD inference, interpretable boosting. Published two major open-source projects (PKBoost GBDT, LEMMA) with active user communities.
+**PKBoost AI Labs** | Founder & Lead research engineer | *2025—Present*
+
+- Independent AI/ML research lab focused on high-performance tabular ML and neural-symbolic systems. Research areas: concept drift adaptation, formal mathematical reasoning, SIMD inference, interpretable boosting. Published two major open-source projects (PKBoost GBDT, LEMMA) with active user communities.
 
 **Value Score Business Solutions LLP** | Technical Intern | *Jun 2025 – Present*
 - Building agentic RAG workflows with n8n and open-source LLMs
