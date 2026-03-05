@@ -11,11 +11,10 @@ I build systems that are formally verified, performance-optimized, and productio
 
 I'm open to **ML Systems Engineer**, **Applied AI Researcher**, or **Performance Engineering** roles where technical rigor is the standard.
 
-**Email**: [kharatpushp16@outlook.com](mailto:kharatpushp16@outlook.com)  
+**Email**: [pushp@pkboost.co.in](mailto:pushp@pkboost.co.in)  
 **Phone**: +91 98696 05981  
-**LinkedIn**: [pushp-kharat](https://www.linkedin.com/in/pushp-kharat)  
-**GitHub**: [Pushp-Kharat1](https://github.com/Pushp-Kharat1)  
-**Website**: [pushp-kharat1.github.io](https://pushp-kharat1.github.io)
+**LinkedIn**: [pushp-kharat](https://www.linkedin.com/in/pushp-kharat-b4181520b/)  
+**Website**: [https://pushp.pkboost.co.in](https://pushp.pkboost.co.in)
 
 ---
 **Support My Work**: [Buy me a coffee ☕](https://buymeacoffee.com/kharatpushg)
